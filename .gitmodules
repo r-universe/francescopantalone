@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Spbsampling"]
+	path = Spbsampling
+	url = https://github.com/francescopantalone/spbsampling
+	shallow = true
+	registered = true
